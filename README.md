@@ -13,7 +13,7 @@ Planning and Designing Steps:
 
 You can check the given Computer Generated Simulation ppt for better understanding.
 
-Provided scripts are used for the project:
+Provided scripts are used for the project::
 
 Doorscripts- for functional openning and closing of door.
 
