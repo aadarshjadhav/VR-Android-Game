@@ -11,7 +11,17 @@ Planning and Designing Steps:
 7. Create a character model for the current player using Blender.
 8. Create a character model for AI-NPC and the AI will attack the player within it’s range.
 
-Provided scripts are used for the project.
+Provided scripts are used for the project:
+
+Doorscripts- for functional openning and closing of door.
+
+Pickups- to check if the person has the keys to the particular door to open, it also triggers door animations.
+
+EnemyMovements- for AI to travel from 1 target to another target randomly.
+
+BodyRotate- for the player's body to rotate in the direction where the player is looking.
+
+Savescript- to save the number of keys pickedup.
 
 You can check the given Computer Generated Simulation ppt for better understanding
 
