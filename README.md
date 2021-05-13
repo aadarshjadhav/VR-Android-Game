@@ -1,7 +1,7 @@
 # VR-Android-Game
 **Purpose of the project** is to make a Virtual Reality Android Game using Unity Engine that includes implementation of audio files with extension .mp3, prefabs created using Blender along with character animations and textures.
 
-**Software Used:**
+**Softwares Used:**
 
 1. Unity Game Engine
 2. Blender
