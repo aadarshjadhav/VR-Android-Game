@@ -13,6 +13,6 @@ Planning and Designing Steps:
 
 Provided scripts are used for the project.
 
-You can check the given ppt for better understanding
+You can check the given Computer Generated Simulation ppt for better understanding
 
 
